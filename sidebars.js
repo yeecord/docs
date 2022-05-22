@@ -46,6 +46,8 @@ module.exports = {
 			label: "音樂指令",
 			link: { type: 'doc', id: 'music/index' },
 			items: [
+				'music/index',
+				'music/index',
 				'music/index'
 			]
 		},
