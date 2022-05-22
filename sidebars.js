@@ -41,6 +41,14 @@ module.exports = {
 				'rpg/make'
 			]
 		},
+		{
+			type: 'category',
+			label: "音樂指令",
+			link: { type: 'doc', id: 'music/index' },
+			items: [
+				'music/index'
+			]
+		},
 		'poll',
 		'dvc',
 		'join-message',
